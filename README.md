@@ -1,2 +1,2 @@
 # Calculator
-A basic and clean Basic calculator
+A basic and clean Basic calculator.
